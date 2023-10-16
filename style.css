@@ -280,8 +280,8 @@ button {
 }
 .section-eighth p{
     text-align: center;
-    padding: 30px;
-    margin: 30px;
+    padding: 10px;
+    margin: 15px;
 }
 .section-eighth h3{
     text-align: center;
@@ -295,8 +295,69 @@ button {
     color: white;
     padding: 15px 60px;
     left: 30px;
+}
+.section-ninth p{
+    padding: 50px 0; 
+    text-align: center;
+    margin: 60px;
+}
+.section-ninth{
+  text-align: center;
+  padding-bottom: 30px;
+  
+}
+.green{
+    background-color: #8FCA12;
+}
+.section-ninth h1{
+    font-size: 64px;
+    font-weight: 700;
+    text-align: start;
+    line-height: 100%;
+    height: 112px;
+    padding: 100px;
+    left: 60px;
+    font-style: normal;
+    
+   
+   
+    
 
 }
+.sing{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+footer{
+    max-width: 920px;
+    width: 100%;
+    margin: 0 auto;
+}
+.foot{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    padding: 60px 0;
+   
+}
+.socials{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+
+}
+.soc-name{
+    font-family: 'Roboto' sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: black;
+}
+
+
 
 
 
